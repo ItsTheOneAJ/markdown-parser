@@ -5,4 +5,6 @@
 [link3](https://github.com/ItsTheOneAJ/cse15l-lab-reports)
 
 
-[dsd]
+[dsd] tirgior
+pisnvpinsvpin
+([()

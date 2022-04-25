@@ -6,7 +6,7 @@
 
 
 [dsd]
-[jah]([()])
-[waBABA]([()])
+[jah](
+[waBABA]([)
 <!-- [waBABA](()) -->
 [dsd]
